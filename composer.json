@@ -2,7 +2,7 @@
     "name": "devtools-marvellous/sextant",
     "description": "Laravel Sextant Engine",
     "type": "library",
-    "version": "1.3.4",
+    "license": "MIT",
     "authors": [
         {
             "name": "Yure Nery",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "laravel/framework": ">=5.8",
-        "doctrine/dbal": "^2.9"
+        "doctrine/dbal": "^3.5"
     },
     "autoload": {
         "psr-4": {
